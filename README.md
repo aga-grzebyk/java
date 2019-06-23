@@ -1,5 +1,5 @@
 # java
-java-dev-classes demo - java 8, MySql, RESTapi;
+java-dev-classes demo - java 8, MySql, RESTapi, hateoas;
 
 
 System posiada role: ADMIN, STUDENT, USER;
